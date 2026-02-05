@@ -20,7 +20,7 @@ My work involves processing and cleaning large scale datasets, building Python a
   <li>Data cleaning and exploratory data analysis</li>
   <li>Data visualization with Matplotlib and Seaborn</li>
   <li>Scientific computing with Matlab and Mathematica</li>
-  <li>LaTeX
+  <li>LaTeX</li>
 </ul>
 
 <hr>
@@ -30,9 +30,7 @@ My work involves processing and cleaning large scale datasets, building Python a
 <p>
 <code>Statistical Data Analysis</code>
 <code>Bayesian Modelling</code>
-<code>Uncertainty Quantification</code>
 <code>Data Driven Physics</code>
-<code>Reproducible Data Pipelines</code>
 <code>Applied Machine Learning</code>
 </p>
 
