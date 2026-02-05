@@ -17,10 +17,8 @@ My work involves processing and cleaning large scale datasets, building Python a
   <li>SQL for data extraction and filtering</li>
   <li>Statistical modelling and Bayesian inference with PyMC</li>
   <li>Regression and classification methods</li>
-  <li>Data cleaning and exploratory data analysis</li>
-  <li>Data visualization with Matplotlib and Seaborn</li>
+  <li>Data cleaning and visualization with Matplotlib and Seaborn</li>
   <li>Scientific computing with Matlab and Mathematica</li>
-  <li>LaTeX</li>
 </ul>
 
 <hr>
