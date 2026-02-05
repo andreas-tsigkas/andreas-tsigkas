@@ -25,6 +25,31 @@ My work involves processing and cleaning large scale datasets, building Python a
 
 <hr>
 
+<h3>Interests</h3>
+
+<p>
+<span style="display:inline-block;padding:4px 8px;margin:4px;border:1px solid #444;border-radius:6px;">
+Statistical Data Analysis
+</span>
+<span style="display:inline-block;padding:4px 8px;margin:4px;border:1px solid #444;border-radius:6px;">
+Bayesian Modelling
+</span>
+<span style="display:inline-block;padding:4px 8px;margin:4px;border:1px solid #444;border-radius:6px;">
+Uncertainty Quantification
+</span>
+<span style="display:inline-block;padding:4px 8px;margin:4px;border:1px solid #444;border-radius:6px;">
+Data Driven Physics
+</span>
+<span style="display:inline-block;padding:4px 8px;margin:4px;border:1px solid #444;border-radius:6px;">
+Reproducible Data Pipelines
+</span>
+<span style="display:inline-block;padding:4px 8px;margin:4px;border:1px solid #444;border-radius:6px;">
+Applied Machine Learning
+</span>
+</p>
+
+<hr>
+
 <h3>Projects</h3>
 
 <ul>
