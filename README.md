@@ -27,9 +27,14 @@ My work involves processing and cleaning large scale datasets, building Python a
 
 <h3>Interests</h3>
 
-### Interests
-
-`Statistical Data Analysis` `Bayesian Modelling` `Uncertainty Quantification` `Data Driven Physics` `Reproducible Data Pipelines` `Applied Machine Learning`
+<p>
+<code>Statistical Data Analysis</code>
+<code>Bayesian Modelling</code>
+<code>Uncertainty Quantification</code>
+<code>Data Driven Physics</code>
+<code>Reproducible Data Pipelines</code>
+<code>Applied Machine Learning</code>
+</p>
 
 
 <hr>
