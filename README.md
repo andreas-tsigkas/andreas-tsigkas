@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I am Andreas
 
-<!--
-**andreas-tsigkas/andreas-tsigkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data focused physicist with a background in astrophysics and strong experience in Python, SQL, and statistical data analysis.
 
-Here are some ideas to get you started:
+My work involves processing and cleaning large scale datasets, building Python analysis pipelines, and applying Bayesian and classical statistical methods to real world data. I have worked extensively with noisy observational datasets and uncertainty analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Python data analysis with Pandas and NumPy
+- SQL for data extraction and filtering
+- Statistical modelling and Bayesian inference with PyMC
+- Regression and classification methods
+- Data cleaning and exploratory data analysis
+- Data visualization with Matplotlib
+- Scientific computing with Matlab and Mathematica
+- LaTeX
+
+### Projects
+- Bayesian analysis of Gaia astrometric data using Python and SQL
+- Statistical modelling of large observational datasets in astrophysics
+
+I am currently transitioning toward data science and applied machine learning roles.
