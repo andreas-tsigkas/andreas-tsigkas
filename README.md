@@ -28,8 +28,7 @@ My work involves processing and cleaning large scale datasets, building Python a
 
 ## Projects
 
-• Bayesian analysis of Gaia astrometric data using Python and SQL  
-• Statistical modelling of large observational datasets in astrophysics  
+• Bayesian analysis of Gaia astrometric data using Python and SQL 
 
 ---
 
