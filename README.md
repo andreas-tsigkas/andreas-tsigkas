@@ -1,50 +1,42 @@
-<h2>Hi, I am Andreas</h2>
+<h2 align="center">Hi, I am Andreas 🌌</h2>
 
-<p>
+
+*“Not all those who wander are lost.”*
+
 I am a data focused physicist with a background in astrophysics and strong experience in Python, SQL, and statistical data analysis.
-</p>
 
-<p>
-My work involves processing and cleaning large scale datasets, building Python analysis pipelines, and applying Bayesian and classical statistical methods to real world data. I have worked extensively with noisy observational datasets and uncertainty analysis.
-</p>
+My work involves processing and cleaning large scale datasets, building Python analysis pipelines, and applying Bayesian and classical statistical methods to real world data.
 
-<hr>
+---
 
-<h3>Skills</h3>
+## Skills
 
-<ul>
-  <li>Python data analysis with Pandas and NumPy</li>
-  <li>SQL for data extraction and filtering</li>
-  <li>Statistical modelling and Bayesian inference with PyMC</li>
-  <li>Regression and classification methods</li>
-  <li>Data cleaning and visualization with Matplotlib and Seaborn</li>
-  <li>Scientific computing with Matlab and Mathematica</li>
-</ul>
+• Python data analysis with Pandas and NumPy  
+• SQL for data extraction and filtering  
+• Statistical modelling and Bayesian inference with PyMC  
+• Regression and classification methods  
+• Data cleaning and visualization with Matplotlib and Seaborn  
+• Scientific computing with Matlab and Mathematica  
 
-<hr>
+---
 
-<h3>Interests</h3>
+## Interests
 
-<p>
-<code>Statistical Data Analysis</code>
-<code>Bayesian Modelling</code>
-<code>Data Driven Physics</code>
-<code>Applied Machine Learning</code>
-</p>
+`Statistical Data Analysis` `Bayesian Modelling` `Data Driven Physics` `Applied Machine Learning`
+
+---
+
+## Projects
+
+• Bayesian analysis of Gaia astrometric data using Python and SQL  
+• Statistical modelling of large observational datasets in astrophysics  
+
+---
 
 
-<hr>
 
-<h3>Projects</h3>
-
-<ul>
-  <li>Bayesian analysis of Gaia astrometric data using Python and SQL</li>
-  <li>Statistical modelling of large observational datasets in astrophysics</li>
-</ul>
-
-<hr>
-
-<p>
 I am currently transitioning toward data science and applied machine learning roles.
-</p>
+
+*“All we have to decide is what to do with the time that is given us.”*
+
 
