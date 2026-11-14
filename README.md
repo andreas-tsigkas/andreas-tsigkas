@@ -8,6 +8,7 @@ I am a data focused physicist with a background in astrophysics and experience i
 My work involves processing and cleaning large scale datasets, building Python analysis pipelines, and applying Bayesian and classical statistical methods to real world data.
 
 I currently work as a research assistant at DTU, where I analyse single-cell RNA sequencing data with Bayesian statistical methods.
+
 ---
 
 ## Skills
@@ -29,7 +30,7 @@ I currently work as a research assistant at DTU, where I analyse single-cell RNA
 
 ## Projects
 
-• Bayesian analysis of Gaia astrometric data using Python and SQL 
+• Bayesian analysis of Gaia astrometric data using Python and SQL <br>
 • Bayesian predictive model for single-cell RNA sequencing data, built in PyMC (code not yet public)
 
 ---
