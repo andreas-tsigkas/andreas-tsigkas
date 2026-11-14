@@ -31,7 +31,8 @@ I currently work as a research assistant at DTU, where I analyse single-cell RNA
 ## Projects
 
 • Bayesian analysis of Gaia astrometric data using Python and SQL <br>
-• Bayesian predictive model for single-cell RNA sequencing data, built in PyMC (code not yet public)
+• Bayesian predictive model for single-cell RNA sequencing data, built in PyMC (code not yet public, in progress)<br>
+• Side fun project: a Bayesian model that predicts temperature up to a week ahead at weather stations on the Greenland ice sheet (code not yet public, in progress)
 
 ---
 
